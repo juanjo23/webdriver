@@ -32,6 +32,6 @@ def when_i_fill_in_field_with_class_group1_with_group2(step, field_class, value)
 
 @step(u'Then I should see "([^"]*)" within "([^"]*)" seconds')
 def then_i_should_see(step, value, seconds):        
-    pass
+    return True
 
   	  
