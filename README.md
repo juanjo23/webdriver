@@ -1,4 +1,4 @@
 webdriver
 =========
 
-Automated test with selenium webdriver
+Automated test with selenium webdriver and lettuce
